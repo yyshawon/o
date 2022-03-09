@@ -15,10 +15,6 @@ var stupidButton = {
 		$('#runaway-container').css('margin-left', mLeft);
 		$('#runaway-container').css('margin-top', mTop);
 	},
-
-	showWin: function(e) {
-		alert('Nice! Here, have a cookie!');
-	}
 };
 
 stupidButton.init();
